@@ -4,7 +4,7 @@
  -  Automatic watering
  -  View environment parameters at any distance
  -  Interact with the system through a network-connected device
- -  Demo: Youtube
+ -  Demo: [Youtube](https://youtu.be/sLUAic5eqcU)
 
 <h3>Tool</h3>
 <div>
