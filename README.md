@@ -1,2 +1,2 @@
-# -Smart-garden-management-IoT-system
+# Smart-garden-management-IoT-system
 UIT Project1
