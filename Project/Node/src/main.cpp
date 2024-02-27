@@ -8,9 +8,9 @@
 #include "addons/RTDBHelper.h"
 #include <time.h>
 //Firebase Server
-#define API_KEY "AIzaSyCs-_UEbcWTW9ANFJ-igucZPCbS7XclUIk"
-#define DATABASE_URL "https://gradentiots-default-rtdb.firebaseio.com/"
-#define Database_Secrets "5jR3TXfdANKSI6xXUgBiJc3wvojE26hqcY3bVNCS"
+#define API_KEY ""
+#define DATABASE_URL ""
+#define Database_Secrets ""
 //PING Server
 #define PING "www.google.com"
 //NTP Server
